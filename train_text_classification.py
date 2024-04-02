@@ -8,7 +8,7 @@
 
 """
     File: train_text_classification.py
-    Desc: DPO训练代码
+    Desc: 文本分类训练代码
     Author: sugar(@google.com)
     Date: 2024-04-1 11:25
     desc: 纪念一下leslie 張發宗
